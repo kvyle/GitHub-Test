@@ -1,0 +1,11 @@
+# Ignore build artifacts
+build/
+bin/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled executables
+*.exe
+*.out
